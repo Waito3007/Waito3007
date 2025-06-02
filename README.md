@@ -1,16 +1,7 @@
 <!-- Bắt đầu README -->
 <h2 align="center"></h2>
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Hello%20World!&width=800&height=200" alt="SVG Banner" />
-</p>
-
 ---
-
-<h1 align="center">Xin chào, mình là <span style="color:#007acc">Waito3007</span> 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Yêu+thích+Open+Source;Luôn+học+hỏi+và+chia+sẻ" alt="Typing SVG" />
-</p>
-
+<h1 align="center">Xin chào, tôi là <span style="color:#007acc">Vũ Phan Hoài Sang</span> 👋</h1>
 ---
 
 ## 🚀 Giới thiệu
@@ -18,15 +9,18 @@ Xin chào! Mình là một lập trình viên đam mê xây dựng sản phẩm 
 
 ## 🛠️ Kỹ năng & Công nghệ
 <p>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-RESTful%20API-005571?style=for-the-badge&logo=api&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
 ## 📈 Thống kê GitHub
