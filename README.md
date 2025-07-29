@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/Waito3007">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+V%C5%A9+Phan+Ho%C3%A0i+Sang+%F0%9F%91%8B%3BBackend+Developer+%26+Team+Leader%3BChuy%C3%AAn+x%C3%A2y+d%E1%BB%B1ng+h%E1%BB%87+th%E1%BB%91ng+hi%E1%BB%87u+n%C4%83ng+cao" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=VU+PHAN+HOAI+SANG" alt="Typing SVG" />
 </a>
 </div>
 <p align="center">
