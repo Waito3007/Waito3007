@@ -109,9 +109,6 @@ Là sinh viên năm cuối, em phát triển bản thân theo mô hình "T-shape
 </p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">...Và nhiều hơn nữa!</h3>
-<br>
-<p align="center" style="padding: 0 16px;">Hãy khám phá các repository khác của tôi<br/>để xem thêm các dự án thú vị nhé!</p>
 <br>
 <p align="center">
 <a href="https://github.com/Waito3007?tab=repositories">
