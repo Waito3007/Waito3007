@@ -3,10 +3,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+V%C5%A9+Phan+Ho%C3%A0i+Sang+%F0%9F%91%8B;Backend+Developer+%26+Team+Leader;Chuy%C3%AAn+x%C3%A2y+d%E1%BB%B1ng+h%E1%BB%87+th%E1%BB%91ng+hi%E1%BB%87u+n%C4%83ng+cao" alt="Typing SVG" />
 </a>
 </div>
-
+<p>Vu Phan Hoai Sang</p>>
 <p align="center">
 <a href="mailto:vphanhoaisang@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sàang-vũ-phan-hoài-5b420121b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="[https://www.linkedin.com/in/sàang-vũ-phan-hoài-5b420121b/](https://www.linkedin.com/in/sang-vũ-70b898271)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Waito3007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
