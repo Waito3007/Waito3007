@@ -14,7 +14,6 @@
 </div>
 
 <p align="center">
-Là sinh viên năm cuối, em phát triển bản thân theo mô hình "T-shaped": <b>am hiểu rộng về toàn bộ quy trình phát triển web (bao gồm cả frontend), nhưng chuyên môn sâu nằm ở backend.</b> Với kinh nghiệm dẫn dắt các dự án, em có khả năng thiết kế kiến trúc hệ thống, xây dựng API và tối ưu hiệu năng. Kiến thức từ khóa luận AI càng củng cố tư duy thuật toán của em. Em tìm kiếm một vị trí thực tập Backend để có thể phát huy tối đa thế mạnh chuyên môn và cùng công ty phát triển lâu dài.
 </p>
 
 <div align="center">
