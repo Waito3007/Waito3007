@@ -10,7 +10,6 @@
 </p>
 
 <div align="center">
-<h3>Mục tiêu nghề nghiệp</h3>
 </div>
 
 <p align="center">
