@@ -96,7 +96,7 @@
 <h3 align="center">🎓 KLTN: Ứng Dụng Ai Trong Quản Lý Và Phân Công Công Việc</h3>(Đang tiến hành - Dự kiến kết thúc 24-8, hiện đã hoàn thành phần lớn công việc)
 <div align="center">
 <a href="https://github.com/Waito3007/KLTN04">
-<img src="https://placehold.co/400x200/FF6F00/FFFFFF?text=AI%20Thesis" alt="Khóa luận tốt nghiệp AI" style="max-width:100%; border-radius: 8px;"/>
+<img src="https://placehold.co/400x200/FF6F00/FFFFFF?text=Task%20Flow" alt="Khóa luận tốt nghiệp AI" style="max-width:100%; border-radius: 8px;"/>
 </a>
 </div>
 <p align="center" style="padding: 0 16px;"><b>Chủ động nghiên cứu,  </b> crawl dataset từ github và xử lý dữ liệu, gán nhản tự động và độ chính xác cao hơn 100 nghìn mẩu dữ liệu commit với cách sử dụng Google Cloud để hổ trợ để xây dựng mô hình phân tích nội dung commit, hổ trợ cho Leader trong phân công công việc trong dự án lập trình.</p>
