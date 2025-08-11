@@ -67,7 +67,7 @@
 <img src="https://placehold.co/400x200/512BD4/FFFFFF?text=SHNGear%20Backend" alt="SHNGear E-commerce" style="max-width:100%; border-radius: 8px;"/>
 </a>
 </div>
-<p align="center" style="padding: 0 16px;"><b>Với vai trò Leader</b>, dẫn dắt và chịu trách nhiệm chính cho hệ thống backend bằng .NET Core API, xử lý các nghiệp vụ cốt lõi của một trang TMĐT.</p>
+<p align="center" style="padding: 0 16px;">Chịu trách nhiệm chính cho hệ thống backend bằng .NET Core API, xử lý các nghiệp vụ cốt lõi của một trang TMĐT.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
@@ -82,7 +82,7 @@
 <img src="https://placehold.co/400x200/007ACC/FFFFFF?text=StayNight%20Backend" alt="Web Đặt Phòng" style="max-width:100%; border-radius: 8px;"/>
 </a>
 </div>
-<p align="center" style="padding: 0 16px;"><b>Với vai trò Leader</b>, thiết kế và phát triển hệ thống RESTful API bằng Node.js cho các chức năng tìm kiếm, đặt phòng và thanh toán.</p>
+<p align="center" style="padding: 0 16px;"> Thiết kế và phát triển hệ thống RESTful API bằng Node.js cho các chức năng tìm kiếm, đặt phòng và thanh toán.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
