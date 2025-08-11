@@ -46,7 +46,6 @@
 <td width="50%" valign="top" align="center">
 <strong>Công cụ & Khác</strong><br><br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
 </td>
@@ -93,7 +92,7 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">🎓 KLTN: Ứng Dụng Ai Trong Quản Lý Và Phân Công Công Việc</h3>(Đang tiến hành - Dự kiến kết thúc 24-8, hiện đã hoàn thành phần lớn công việc)
+<h3 align="center">🎓 KLTN: Ứng Dụng Ai Trong Quản Lý Và Phân Công Công Việc Trong Dự Án Lập Trình</h3>(Đang tiến hành - Dự kiến kết thúc 26-8)
 <div align="center">
 <a href="https://github.com/Waito3007/KLTN04">
 <img src="https://placehold.co/400x200/FF6F00/FFFFFF?text=Task%20Flow" alt="Khóa luận tốt nghiệp AI" style="max-width:100%; border-radius: 8px;"/>
@@ -103,7 +102,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931A?style=flat&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-F7931A?style=flat&logo=PyTorch&logoColor=white"/>
 </p>
 </td>
 <td width="50%" valign="top">
