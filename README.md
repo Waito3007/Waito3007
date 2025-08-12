@@ -98,7 +98,7 @@
 <img src="https://placehold.co/400x200/FF6F00/FFFFFF?text=Task%20Flow" alt="Khóa luận tốt nghiệp AI" style="max-width:100%; border-radius: 8px;"/>
 </a>
 </div>
-<p align="center" style="padding: 0 16px;"><b>Chủ động nghiên cứu,  </b> crawl dataset từ github và xử lý dữ liệu, gán nhản tự động và độ chính xác cao hơn 100 nghìn mẩu dữ liệu commit với cách sử dụng Google Cloud để hổ trợ để xây dựng mô hình phân tích nội dung commit, hổ trợ cho Leader trong phân công công việc trong dự án lập trình.</p>
+<p align="center" style="padding: 0 16px;"><b>Chủ động nghiên cứu,  </b> crawl dataset từ github và xử lý dữ liệu, gán nhản hơn 100 nghìn mẩu dữ liệu commit, phân chia dữ liệu và training 3 model ai sau đó triển khai lên môi trường web để sử dụng tính năng Ai hổ trợ cho Leader trong phân công công việc trong dự án lập trình.</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
